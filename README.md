@@ -27,6 +27,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğiminde oluşturdu�
 
 ## License
 
+[MIT]()
+
 
  
  
